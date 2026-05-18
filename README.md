@@ -58,6 +58,11 @@
 - 🛡️ [MetaDefender 掃毒報告](https://metadefender.com/results/file/bzI2MDUxOHVFcFNXcC13WU9KaUw5MFUxaG0zTGo_mdaas) (1/20)
 - 🛡️ [Kaspersky 掃毒報告](https://opentip.kaspersky.com/711344BC7F4CA302327FB0C35EC67CA169D4D278B87C56C244AE05721B0D4EDE/results?tab=upload) (Clean)
 
+## 特別感謝 (Acknowledgments)
+
+**🕊️ 特別紀念原始作者：Purson**  
+感謝 Purson 對此專案核心概念與最初版本的偉大貢獻與啟發。沒有他奠定的基礎，這個方便的工具就不會誕生，感謝他讓這份心意能延續並造福更多玩家。
+
 ## 授權條款 (License)
 
 本專案採用 [MIT License](LICENSE) 授權。
