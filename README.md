@@ -1,8 +1,8 @@
 # Forza Horizon 6 語音語言交換器 (FH6 Swapper)
 
-[![VirusTotal 掃毒報告 (8/71)](https://img.shields.io/badge/VirusTotal-8/71_False_Positive-orange)](https://www.virustotal.com/gui/file/711344bc7f4ca302327fb0c35ec67ca169d4d278b87c56c244ae05721b0d4ede?nocache=1)
-[![Jotti (0/13 Clean)](https://img.shields.io/badge/Jotti-0/13_Clean-success)](https://virusscan.jotti.org/en-US/filescanjob/4pqqtukt8n)
-[![MetaDefender (1/20)](https://img.shields.io/badge/MetaDefender-1/20_False_Positive-yellow)](https://metadefender.com/results/file/bzI2MDUxOHVFcFNXcC13WU9KaUw5MFUxaG0zTGo_mdaas)
+[![VirusTotal 掃毒報告 (8/71)](https://img.shields.io/badge/VirusTotal-8/71-orange)](https://www.virustotal.com/gui/file/711344bc7f4ca302327fb0c35ec67ca169d4d278b87c56c244ae05721b0d4ede?nocache=1)
+[![Jotti (0/13)](https://img.shields.io/badge/Jotti-0/13-success)](https://virusscan.jotti.org/en-US/filescanjob/4pqqtukt8n)
+[![MetaDefender (1/20)](https://img.shields.io/badge/MetaDefender-1/20-yellow)](https://metadefender.com/results/file/bzI2MDUxOHVFcFNXcC13WU9KaUw5MFUxaG0zTGo_mdaas)
 [![Kaspersky (Clean)](https://img.shields.io/badge/Kaspersky-Clean-success)](https://opentip.kaspersky.com/711344BC7F4CA302327FB0C35EC67CA169D4D278B87C56C244AE05721B0D4EDE/results?tab=upload)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -53,9 +53,9 @@
 ## 安全性報告
 
 本工具原始碼完全公開透明，為讓使用者安心，在此附上由各大知名防毒平台提供的最新掃毒報告（少部分引擎可能因為 Python 打包程式而產生誤判，皆為正常現象）：
-- 🛡️ [VirusTotal 掃毒報告](https://www.virustotal.com/gui/file/711344bc7f4ca302327fb0c35ec67ca169d4d278b87c56c244ae05721b0d4ede?nocache=1) (8/71 誤判)
-- 🛡️ [Jotti 掃毒報告](https://virusscan.jotti.org/en-US/filescanjob/4pqqtukt8n) (0/13 全數通過 Found nothing)
-- 🛡️ [MetaDefender 掃毒報告](https://metadefender.com/results/file/bzI2MDUxOHVFcFNXcC13WU9KaUw5MFUxaG0zTGo_mdaas) (1/20 Aurora Engine 誤判 Malware_-6)
+- 🛡️ [VirusTotal 掃毒報告](https://www.virustotal.com/gui/file/711344bc7f4ca302327fb0c35ec67ca169d4d278b87c56c244ae05721b0d4ede?nocache=1) (8/71)
+- 🛡️ [Jotti 掃毒報告](https://virusscan.jotti.org/en-US/filescanjob/4pqqtukt8n) (0/13)
+- 🛡️ [MetaDefender 掃毒報告](https://metadefender.com/results/file/bzI2MDUxOHVFcFNXcC13WU9KaUw5MFUxaG0zTGo_mdaas) (1/20)
 - 🛡️ [Kaspersky 掃毒報告](https://opentip.kaspersky.com/711344BC7F4CA302327FB0C35EC67CA169D4D278B87C56C244AE05721B0D4EDE/results?tab=upload) (Clean)
 
 ## 授權條款 (License)
